@@ -1,18 +1,87 @@
-# 👋 สวัสดีครับ ผมชื่อ [ชื่อของคุณ]
-นักพัฒนาซอฟต์แวร์สาย [frontend/backend/fullstack] สนใจเรื่อง [AI/Game/Web/ฯลฯ]
+# 👋 Hello, I'm Thithada Islam
 
-## 🧰 Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+🎓 I'm a Software Engineering student with a growing interest in **DevOps**, **Automation**, and how teams collaborate to build and deploy software efficiently. I enjoy learning about new technologies and solving real-world problems through development.
 
-## 📊 สถิติ GitHub
+Currently looking for an internship to expand my knowledge, contribute to impactful projects, and learn from experienced professionals.
+
+---
+
+## 🧠 About Me
+- 🎓 **University of Phayao** (2023 - Present)  
+  GPA: **3.39**  
+- 🌱 Currently learning: DevOps, PostgreSQL, Prisma, and System Design
+- 🌍 Based in Thailand 🇹🇭
+- 🧩 Interests:  
+  `Fitness & Exercise` | `Travel & Adventure` | `Finance & Business`  
+  `Reading Books` | `Self-Development` | `Gaming`
+
+---
+
+## 🚀 Projects
+
+### 🔧 Maintenance UP (Team Project) – 2023  
+**Role:** Frontend & Backend Developer  
+**Tech Stack:** NextJS, Node.js, MySQL  
+A facility maintenance request and tracking system on campus.  
+- Developed UI and API endpoints for request management  
+- 🧠 *Learned:* Git integration, database design, agile workflow  
+
+---
+
+### 🚗 Autocar (Team Project) – 2024  
+**Role:** Frontend & Backend Developer  
+**Tech Stack:** NextJS, Node.js, e-js4, TiDB  
+A repair-tracking system for personal vehicles.  
+- Built notification features and real-time status update  
+- 🧠 *Learned:* Real-time data handling, team collaboration  
+
+---
+
+### 🥗 Nutrition Analysis (Team Project) – 2025  
+**Role:** Frontend & Backend Developer  
+**Tech Stack:** NextJS, Prisma (ORM), PostgreSQL  
+A system to analyze daily caloric intake with user-friendly features  
+- Implemented data visualization and user management  
+- 🧠 *Learned:* Data processing, full-stack workflow  
+
+---
+
+### 🐱 HowTheCat (Solo Project) – 2025  
+**Role:** Game Developer  
+**Tech Stack:** GDScript, Godot Engine  
+A 2D farming simulation game  
+- Implemented game mechanics and user interactions  
+- 🧠 *Learned:* Problem-solving, system planning, game dev pipeline  
+
+---
+
+## 🧰 Skills & Tools
+
+### Languages & Frameworks
+`JavaScript` | `TypeScript` | `Python` | `GDScript` | `HTML` | `CSS`
+
+### Frontend & Backend
+`React` | `Vue.js` | `Node.js` | `NextJS` | `Tailwind CSS`
+
+### Database & DevOps
+`MySQL` | `PostgreSQL` | `Prisma` | `TiDB`
+
+### Others
+`Git` | `GitHub` | `Postman` | `Godot Engine`
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thithada-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/thithada)  
+[![Gmail](https://img.shields.io/badge/Gmail-madname00@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:madname00@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-thithada-333?style=flat-square&logo=github)](https://github.com/thithada)  
+📱 **093-494-9511**
+
+---
+
+## 📈 GitHub Stats
+
 ![Thithada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thithada&show_icons=true&theme=radical)
 
-## 🚀 โปรเจกต์เด่น
-- 🎮 [MyGameProject](https://github.com/thithada/mygameproject) - เกมที่พัฒนาด้วย Unity
-- 📝 [Portfolio Website](https://github.com/thithada/portfolio) - เว็บไซต์พอร์ตส่วนตัว
-
-## 📫 ติดต่อผมได้ที่
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thithada&layout=compact&theme=radical)
