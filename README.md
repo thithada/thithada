@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, GameDev
 ----------------------
 
-I'm Tomas.
-
 Passionate about code, obsessed with design, and in love with game development.
 
 * 🌍  I'm based in bankkok
