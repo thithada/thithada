@@ -12,7 +12,7 @@ Passionate about code, obsessed with design, and in love with game development.
 * 🖥️  See my portfolio at [MySite](https://metomas.vercel.app/)
 * ✉️  You can contact me at [madname00@gmail.com](mailto:madname00@gmail.com)
 * 🧠  I'm learning React, Prisma, PostgreSQL, GDScript
-* 🤝  I'm open to collaborating on luv u guy
+* 🤝  I'm open to collaborating on exciting projects.
 
 ### Skills
 
@@ -30,10 +30,15 @@ Passionate about code, obsessed with design, and in love with game development.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thithada"><img src="https://github-readme-stats.vercel.app/api?username=thithada&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="thithada's GitHub stats" /></a>
+<p align="center">
+  <a href="http://www.github.com/thithada">
+    <img src="https://github-readme-stats.vercel.app/api?username=thithada&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="thithada's GitHub stats" height="180px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/thithada">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thithada&langs_count=4&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" height="180px" />
+  </a>
+</p>
+
 
 <a href="http://www.github.com/thithada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thithada&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/thithada" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thithada&langs_count=4&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
