@@ -1,6 +1,5 @@
 I'm Tomas.
 
-Passionate about code, obsessed with design, and in love with game development.
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tomas
 =============================================================================================================================
 
@@ -32,6 +31,8 @@ Passionate about code, obsessed with design, and in love with game development.
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/thithada"><img src="https://github-readme-stats.vercel.app/api?username=thithada&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="thithada's GitHub stats" /></a>
 
 <a href="http://www.github.com/thithada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thithada&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
