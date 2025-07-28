@@ -31,13 +31,16 @@ Passionate about code, obsessed with design, and in love with game development.
 <b>My GitHub Stats</b>
 
 <p align="center">
-  <a href="http://www.github.com/thithada">
-    <img src="https://github-readme-stats.vercel.app/api?username=thithada&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" width="420" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/thithada">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thithada&layout=compact&langs_count=4&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="420" />
-  </a>
+  <span>
+    <a href="http://www.github.com/thithada">
+      <img src="https://github-readme-stats.vercel.app/api?username=thithada&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true" alt="GitHub stats" width="420" style="display:inline-block;vertical-align:top;" />
+    </a>
+  </span>
+  <span>
+    <a href="https://github.com/thithada">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thithada&layout=compact&langs_count=4&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="420" style="display:inline-block;vertical-align:top;" />
+    </a>
+  </span>
 </p>
 
 <p align="center">
@@ -45,3 +48,4 @@ Passionate about code, obsessed with design, and in love with game development.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thithada&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="860" />
   </a>
 </p>
+
