@@ -45,7 +45,7 @@ Passionate about code, obsessed with design, and in love with game development.
 
 <p align="center">
   <a href="http://www.github.com/thithada">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thithada&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="860" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thithada&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
