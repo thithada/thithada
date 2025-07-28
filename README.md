@@ -9,10 +9,10 @@ I'm Tomas.
 Passionate about code, obsessed with design, and in love with game development.
 
 * 🌍  I'm based in bankkok
-* 🖥️  See my portfolio at [MySite](http://https://metomas.vercel.app/)
+* 🖥️  See my portfolio at [MySite](http://metomas.vercel.app/)
 * ✉️  You can contact me at [madname00@gmail.com](mailto:madname00@gmail.com)
 * 🧠  I'm learning React, Prisma, PostgreSQL, GDScript
-* 🤝  I'm open to collaborating on luv u guy
+* 🤝  I'm open to collaborating on exciting projects.
 
 ### Skills
 
@@ -30,8 +30,17 @@ Passionate about code, obsessed with design, and in love with game development.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thithada"><img src="https://github-readme-stats.vercel.app/api?username=thithada&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="thithada's GitHub stats" /></a>
+<p align="center">
+  <a href="http://www.github.com/thithada">
+    <img src="https://github-readme-stats.vercel.app/api?username=thithada&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true" alt="thithada's GitHub stats" width="49%" />
+  </a>
+  <a href="https://github.com/thithada">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thithada&langs_count=4&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="49%" />
+  </a>
+</p>
 
-<a href="http://www.github.com/thithada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thithada&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/thithada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thithada&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="http://www.github.com/thithada">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thithada&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="98%" />
+  </a>
+</p>
