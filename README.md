@@ -7,7 +7,7 @@ Web Developer, GameDev
 Passionate about code, obsessed with design, and in love with game development.
 
 * 🌍  I'm based in bankkok
-* 🖥️  See my portfolio at [MySite](http://metomas.vercel.app/)
+* 🖥️  See my portfolio at [MySite]([http://metomas.vercel.app/](https://thithada-portfolio.vercel.app/))
 * ✉️  You can contact me at [madname00@gmail.com](mailto:madname00@gmail.com)
 * 🧠  I'm learning React, Prisma, PostgreSQL, GDScript
 * 🤝  I'm open to collaborating on exciting projects.
